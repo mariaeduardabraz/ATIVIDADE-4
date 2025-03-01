@@ -1,0 +1,1 @@
+Durante a atividade desenvolvi um código bem básico conforme foi informado que poderia ser feito e apenas realizei os commits diretamente através do Visual Studio Code com as extensões do Git para facilitar o processo.
